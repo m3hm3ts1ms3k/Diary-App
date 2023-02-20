@@ -1,0 +1,87 @@
+C:\Users\ACER NITRO\source\repos\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\GunlukUygulamasi.exe.config
+C:\Users\ACER NITRO\source\repos\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\GunlukUygulamasi.exe
+C:\Users\ACER NITRO\source\repos\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\GunlukUygulamasi.pdb
+C:\Users\ACER NITRO\source\repos\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ACER NITRO\source\repos\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER NITRO\source\repos\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.Form1.resources
+C:\Users\ACER NITRO\source\repos\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.Properties.Resources.resources
+C:\Users\ACER NITRO\source\repos\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.GenerateResource.cache
+C:\Users\ACER NITRO\source\repos\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO\source\repos\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.exe
+C:\Users\ACER NITRO\source\repos\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.pdb
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\GunlukUygulamasi.exe.config
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\GunlukUygulamasi.exe
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\GunlukUygulamasi.pdb
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\Interop.WMPLib.dll
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\AxInterop.WMPLib.dll
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.AssemblyReference.cache
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\Interop.WMPLib.dll
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\AxInterop.WMPLib.dll
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.ResolveComReference.cache
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.Form1.resources
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.Properties.Resources.resources
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.GenerateResource.cache
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.CoreCompileInputs.cache
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.exe
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.pdb
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\data\music\1.mp3
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\data\music\2.mp3
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.about_us.resources
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.users_mang.resources
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\data\user_pic\1.jpg
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.login_form.resources
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.memo_form.resources
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\data\docs\1.rtf
+D:\2022-2023\prog özel konu\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.search_memo.resources
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\data\docs\1.rtf
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\data\user_pic\1.jpg
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\data\music\1.mp3
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\data\music\2.mp3
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\GunlukUygulamasi.exe.config
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\GunlukUygulamasi.exe
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\GunlukUygulamasi.pdb
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\Interop.WMPLib.dll
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\AxInterop.WMPLib.dll
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.AssemblyReference.cache
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\Interop.WMPLib.dll
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\AxInterop.WMPLib.dll
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.ResolveComReference.cache
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.Form1.resources
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.about_us.resources
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.login_form.resources
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.memo_form.resources
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.search_memo.resources
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.users_mang.resources
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.Properties.Resources.resources
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.GenerateResource.cache
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.CoreCompileInputs.cache
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.exe
+D:\2022-2023\prog özel konu\yedek\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.pdb
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\data\docs\1.rtf
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\data\user_pic\1.jpg
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\data\music\1.mp3
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\data\music\2.mp3
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\GunlukUygulamasi.exe.config
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\GunlukUygulamasi.exe
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\GunlukUygulamasi.pdb
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\Interop.WMPLib.dll
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\bin\Debug\AxInterop.WMPLib.dll
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.AssemblyReference.cache
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\Interop.WMPLib.dll
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\AxInterop.WMPLib.dll
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.ResolveComReference.cache
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.Form1.resources
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.about_us.resources
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.login_form.resources
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.memo_form.resources
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.search_memo.resources
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.users_mang.resources
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.Properties.Resources.resources
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.GenerateResource.cache
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.csproj.CoreCompileInputs.cache
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.exe
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.pdb
+D:\2022-2023\prog özel konu\Programlamada Özel Konular Final Teslimi\Proje Finali\GunlukUygulamasi\GunlukUygulamasi\obj\Debug\GunlukUygulamasi.My_Forms.timer.resources
